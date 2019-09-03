@@ -1,1 +1,1 @@
-# config-client
+测试 springcloud  配置
